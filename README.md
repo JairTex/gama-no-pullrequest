@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ótimo curso, direto ao ponto, nos trazendo o essencial para participar de um trabalho remoto em equipe com controle de versões.
